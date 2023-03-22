@@ -35,7 +35,7 @@
     "node": ">=14"
   },
   "dependencies": {
-    "@adobe/fetch": "3.6.0",
+    "@adobe/fetch": "3.6.1",
     "@adobe/helix-log": "6.0.0",
     "@adobe/helix-shared-config": "9.1.4",
     "@adobe/helix-shared-git": "2.0.4",
@@ -67,7 +67,7 @@
     "yargs": "17.6.2"
   },
   "devDependencies": {
-    "@adobe/eslint-config-helix": "2.0.1",
+    "@adobe/eslint-config-helix": "2.0.2",
     "@adobe/helix-shared-dom": "1.1.11",
     "@adobe/helix-testutils": "0.4.14",
     "@semantic-release/changelog": "6.0.2",
